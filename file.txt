@@ -5,4 +5,8 @@
 5 banana
 6 cherry
 7 guvava
+8 strawberry
+9 tomato
+10 lemon
+
 
